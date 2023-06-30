@@ -41,7 +41,7 @@
 | I have also created a Postman collection to help with the API testing,
 | To access it, please follow these steps:
 |1 - Install Postman
-|2 - Import the following collection file -> Erick's Test.postman_collection.json
+|2 - Import the following collection file -> ExBanking.postman_collection.json
 |3 - Use calls
 |4 - See the results
 
