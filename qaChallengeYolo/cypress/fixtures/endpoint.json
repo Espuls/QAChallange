@@ -1,0 +1,8 @@
+{
+  "deposit": "/deposit",
+  "withdraw": "/withdraw",
+  "balance": "/balance",
+  "send": "/send/",
+  "wallet": "/wallet/",
+  "slash": "/"
+}

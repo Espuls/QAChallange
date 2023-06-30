@@ -1,0 +1,14 @@
+{
+  "emptyValue": {
+    "value": ""
+  },
+  "validValue": {
+    "value": "20"
+  },
+  "negativeValue": {
+    "value": "-10"
+  },
+  "invalidValue": {
+    "value": "$,"
+  }
+}

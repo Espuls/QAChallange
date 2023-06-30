@@ -1,0 +1,56 @@
+{
+    "dummyUser":
+    {
+        "name": "",
+        "userId": "",
+        "address": ""
+    },
+    "userOne":
+    {
+        "id": "1",
+        "name": "wallet-1",
+        "userId": "user-1",
+        "address": "user 1 address",
+        "balance": "1"
+    },
+    "userTwo":
+    {
+        "id": "2",
+        "name": "wallet-2",
+        "userId": "user-2",
+        "address": "user 2 address",
+        "balance": "10"
+    },
+    "userThree":
+    {
+        "id": "3",
+        "name": "wallet-3",
+        "userId": "user-3",
+        "address": "user 3 address",
+        "balance": "0"
+    },
+    "userFour":
+    {
+        "id": "4",
+        "name": "wallet-4",
+        "userId": "user-4",
+        "address": "user 4 address",
+        "balance": "200"
+    },
+    "userFive":
+    {
+        "id": "5",
+        "name": "wallet-5",
+        "userId": "user-5",
+        "address": "user 5 address",
+        "balance": "-100"
+    },
+    "invalidUser":
+    {
+        "id": "12",
+        "name": "wallet-12",
+        "userId": "user-12",
+        "address": "user 12 address",
+        "balance": "12"
+    }
+}
