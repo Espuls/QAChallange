@@ -1,9 +1,9 @@
-|QA Challange - ExBanking test assignment|
------------------------------------------------------------------------
+| QA Challange - ExBanking test assignment |
+
 |* All files can be found inside the zip folder attached to the e-mail.
------------------------------------------------------------------------
+
 |* For functional and non-functional test cases please look at the API_Test_Cases.xlsx file
------------------------------------------------------------------------
+
 |* Functional test automation was done using Cypress,
 | To check Automate API testing using Cypress please follow these steps:
 |** Prerequisites:
@@ -22,11 +22,11 @@
 |1.3 - Click in httpRequests.cy.js spec file
 |2 - For headless mode -> npx cypress run --spec **/APITesting/*.cy.js
 |3 - See the results
------------------------------------------------------------------------
+
 |** Accessing Swagger for API calls:
 |1 - Run jar file test-0.0.1-SNAPSHOT.jar -> java -jar test-0.0.1-SNAPSHOT.jar
 |2 - Use this link -> http://localhost:8080/swagger-ui/index.html#/
------------------------------------------------------------------------
+
 |* Non-functional test automation was done using Jmeter
 | To check Performance testing automation using Jmeter please follow these steps:
 |** Prerequisites:
@@ -36,7 +36,7 @@
 |4 - In File > Open > \examples\CreateUser.jmx
 |5 - Start the test
 |6 - See the results
------------------------------------------------------------------------
+
 |* Postman collection,
 | I have also created a Postman collection to help with the API testing,
 | To access it, please follow these steps:
